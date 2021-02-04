@@ -13,3 +13,4 @@ class PostsController < ApplicationController
 end
 
  # コントローラーにコメントを追加してみる
+# 会社のChromebookでコメントを追加してみる
